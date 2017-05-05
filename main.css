@@ -4,12 +4,10 @@
 }
 .box{
   border: 2px solid #B7B7B7;
-  overflow: auto;
-}
+  }
 .caja{
   width: 200px;
   height: 200px;
-  float: right;
 }
 .yellow{
   background:#FFFF00;
@@ -19,4 +17,13 @@
 }
 .blue{
   background:#0000BA;
+}
+.overflow{
+  overflow: auto;
+}
+.float-left{
+  float: left;
+}
+.float-right{
+  float: right;
 }
